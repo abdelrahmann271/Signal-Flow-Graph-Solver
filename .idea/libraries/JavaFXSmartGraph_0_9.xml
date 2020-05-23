@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="JavaFXSmartGraph-0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/JavaFXSmartGraph-0.9.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../New folder/javafx-sdk-11.0.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../New folder/javafx-sdk-11.0.2/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../New folder/javafx-sdk-11.0.2/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../New folder/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
